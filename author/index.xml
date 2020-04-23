@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Gardner</title>
+    <link>https://pagard.github.io/author/</link>
+      <atom:link href="https://pagard.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Gardner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://pagard.github.io/author/avatar_hu750b61937a1510b351d73ca897246604_434342_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Paul Gardner</title>
+      <link>https://pagard.github.io/author/</link>
+    </image>
+    
+  </channel>
+</rss>

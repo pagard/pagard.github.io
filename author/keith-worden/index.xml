@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keith Worden | Paul Gardner</title>
+    <link>https://pagard.github.io/author/keith-worden/</link>
+      <atom:link href="https://pagard.github.io/author/keith-worden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keith Worden</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pagard.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Keith Worden</title>
+      <link>https://pagard.github.io/author/keith-worden/</link>
+    </image>
+    
+    <item>
+      <title>Digital twins: state-of-the-art future directions for modelling and simulation in engineering dynamics applications</title>
+      <link>https://pagard.github.io/publication/wagg-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/wagg-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernelised Bayesian transfer learning for population-based structural health monitoring</title>
+      <link>https://pagard.github.io/publication/cp-gardner-2020-c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/cp-gardner-2020-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On digital twins, mirrors and virtualisations: frameworks for model verification and validation</title>
+      <link>https://pagard.github.io/publication/worden-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/worden-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On partitioning of an SHM problem and parallels with transfer learning</title>
+      <link>https://pagard.github.io/publication/cp-tsialiamanis-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/cp-tsialiamanis-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the application of domain adaptation in structural health monitoring</title>
+      <link>https://pagard.github.io/publication/gardner-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/gardner-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic modelling of wind turbine power curves with application of heteroscedastic Gaussian Process regression</title>
+      <link>https://pagard.github.io/publication/rogers-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/rogers-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards population-based structural health monitoring, Part I: Homogeneous populations and forms</title>
+      <link>https://pagard.github.io/publication/cp-bull-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/cp-bull-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards population-based structural health monitoring, Part II: Heterogeneous populations and structures as graphs</title>
+      <link>https://pagard.github.io/publication/cp-gosliga-2020-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/cp-gosliga-2020-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards population-based structural health monitoring, Part III: Graphs, networks and communities</title>
+      <link>https://pagard.github.io/publication/cp-gosliga-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/cp-gosliga-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards population-based structural health monitoring, Part IV: Heterogeneous populations, transfer and mapping</title>
+      <link>https://pagard.github.io/publication/cp-gardner-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/cp-gardner-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On digital twins, mirrors and visualisations</title>
+      <link>https://pagard.github.io/publication/cp-worden-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/cp-worden-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On key technologies for realising digital twins for structural dynamics applications</title>
+      <link>https://pagard.github.io/publication/cp-wagg-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/cp-wagg-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the application of domain adaptation for aiding supervised SHM methods</title>
+      <link>https://pagard.github.io/publication/cp-gardner-2019-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publication/cp-gardner-2019-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
