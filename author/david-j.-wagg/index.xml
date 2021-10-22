@@ -14,9 +14,25 @@
     
     <item>
       <title>Digital twins: state-of-the-art future directions for modelling and simulation in engineering dynamics applications</title>
+      <link>https://pagard.github.io/papers/wagg-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/wagg-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital twins: state-of-the-art future directions for modelling and simulation in engineering dynamics applications</title>
       <link>https://pagard.github.io/publication/wagg-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/wagg-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On digital twins, mirrors and virtualisations: frameworks for model verification and validation</title>
+      <link>https://pagard.github.io/papers/worden-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/worden-2020/</guid>
       <description></description>
     </item>
     
@@ -30,6 +46,14 @@
     
     <item>
       <title>On partitioning of an SHM problem and parallels with transfer learning</title>
+      <link>https://pagard.github.io/papers/cp-tsialiamanis-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-tsialiamanis-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On partitioning of an SHM problem and parallels with transfer learning</title>
       <link>https://pagard.github.io/publication/cp-tsialiamanis-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/cp-tsialiamanis-2020/</guid>
@@ -38,9 +62,25 @@
     
     <item>
       <title>On digital twins, mirrors and visualisations</title>
+      <link>https://pagard.github.io/papers/cp-worden-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-worden-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On digital twins, mirrors and visualisations</title>
       <link>https://pagard.github.io/publication/cp-worden-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/cp-worden-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On key technologies for realising digital twins for structural dynamics applications</title>
+      <link>https://pagard.github.io/papers/cp-wagg-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-wagg-2019/</guid>
       <description></description>
     </item>
     

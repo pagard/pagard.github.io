@@ -14,9 +14,25 @@
     
     <item>
       <title>Bayesian history matching for structural dynamics applications</title>
+      <link>https://pagard.github.io/papers/gardner-2020-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/gardner-2020-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian history matching for structural dynamics applications</title>
       <link>https://pagard.github.io/publication/gardner-2020-b/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/gardner-2020-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital twins: state-of-the-art future directions for modelling and simulation in engineering dynamics applications</title>
+      <link>https://pagard.github.io/papers/wagg-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/wagg-2020/</guid>
       <description></description>
     </item>
     
@@ -30,9 +46,25 @@
     
     <item>
       <title>On digital twins, mirrors and virtualisations: frameworks for model verification and validation</title>
+      <link>https://pagard.github.io/papers/worden-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/worden-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On digital twins, mirrors and virtualisations: frameworks for model verification and validation</title>
       <link>https://pagard.github.io/publication/worden-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/worden-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unifying Framework for Probabilistic Validation Metrics</title>
+      <link>https://pagard.github.io/papers/gardner-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/gardner-2019/</guid>
       <description></description>
     </item>
     
@@ -46,9 +78,25 @@
     
     <item>
       <title>Learning of model discrepancy for dynamics applications using Bayesian history matching</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning of model discrepancy for dynamics applications using Bayesian history matching</title>
       <link>https://pagard.github.io/publication/cp-gardner-2019-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/cp-gardner-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On current trends in forward model-driven SHM</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2019-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2019-d/</guid>
       <description></description>
     </item>
     
@@ -62,9 +110,25 @@
     
     <item>
       <title>On digital twins, mirrors and visualisations</title>
+      <link>https://pagard.github.io/papers/cp-worden-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-worden-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On digital twins, mirrors and visualisations</title>
       <link>https://pagard.github.io/publication/cp-worden-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/cp-worden-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On key technologies for realising digital twins for structural dynamics applications</title>
+      <link>https://pagard.github.io/papers/cp-wagg-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-wagg-2019/</guid>
       <description></description>
     </item>
     
@@ -78,9 +142,25 @@
     
     <item>
       <title>Sequential Bayesian history matching for model calibration</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2019-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Bayesian history matching for model calibration</title>
       <link>https://pagard.github.io/publication/cp-gardner-2019-b/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/cp-gardner-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Gaussian Process Emulators for Surrogate Design Modelling</title>
+      <link>https://pagard.github.io/papers/gardner-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/gardner-2018/</guid>
       <description></description>
     </item>
     
@@ -94,9 +174,25 @@
     
     <item>
       <title>A multi-level uncertainty integration strategy for forward model-driven SHM</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2018-d/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2018-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-level uncertainty integration strategy for forward model-driven SHM</title>
       <link>https://pagard.github.io/publication/cp-gardner-2018-d/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/cp-gardner-2018-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A probabilistic framework for forward model-driven SHM</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2018-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2018-c/</guid>
       <description></description>
     </item>
     
@@ -110,9 +206,25 @@
     
     <item>
       <title>An evaluation of validation metrics for probabilistic model outputs</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2018-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evaluation of validation metrics for probabilistic model outputs</title>
       <link>https://pagard.github.io/publication/cp-gardner-2018-b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/cp-gardner-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian history matching for forward model-driven structural health monitoring</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2018-a/</guid>
       <description></description>
     </item>
     
@@ -126,6 +238,14 @@
     
     <item>
       <title>Bayesian calibration and bias correction for forward model-driven SHM</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian calibration and bias correction for forward model-driven SHM</title>
       <link>https://pagard.github.io/publication/cp-gardner-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/cp-gardner-2017/</guid>
@@ -134,9 +254,25 @@
     
     <item>
       <title>Quantification of uncertainty for experimentally obtained modal parameters in the creation of a robust damage model</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of uncertainty for experimentally obtained modal parameters in the creation of a robust damage model</title>
       <link>https://pagard.github.io/publication/cp-gardner-2016-a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/cp-gardner-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The development of a damage model for the use in machine learning driven SHM and comparison with conventional SHM methods</title>
+      <link>https://pagard.github.io/papers/cp-gardner-2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/cp-gardner-2016-b/</guid>
       <description></description>
     </item>
     

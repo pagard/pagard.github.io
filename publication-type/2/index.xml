@@ -14,9 +14,25 @@
     
     <item>
       <title>Autonomous ultrasonic inspection using Bayesian optimisation and robust outlier analysis</title>
+      <link>https://pagard.github.io/papers/fuentes-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/fuentes-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous ultrasonic inspection using Bayesian optimisation and robust outlier analysis</title>
       <link>https://pagard.github.io/publication/fuentes-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/fuentes-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian history matching for structural dynamics applications</title>
+      <link>https://pagard.github.io/papers/gardner-2020-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/gardner-2020-b/</guid>
       <description></description>
     </item>
     
@@ -30,9 +46,25 @@
     
     <item>
       <title>Digital twins: state-of-the-art future directions for modelling and simulation in engineering dynamics applications</title>
+      <link>https://pagard.github.io/papers/wagg-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/wagg-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital twins: state-of-the-art future directions for modelling and simulation in engineering dynamics applications</title>
       <link>https://pagard.github.io/publication/wagg-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/wagg-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On digital twins, mirrors and virtualisations: frameworks for model verification and validation</title>
+      <link>https://pagard.github.io/papers/worden-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/worden-2020/</guid>
       <description></description>
     </item>
     
@@ -46,9 +78,25 @@
     
     <item>
       <title>On the application of domain adaptation in structural health monitoring</title>
+      <link>https://pagard.github.io/papers/gardner-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/gardner-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the application of domain adaptation in structural health monitoring</title>
       <link>https://pagard.github.io/publication/gardner-2020-a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/gardner-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic modelling of wind turbine power curves with application of heteroscedastic Gaussian Process regression</title>
+      <link>https://pagard.github.io/papers/rogers-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/rogers-2020/</guid>
       <description></description>
     </item>
     
@@ -62,9 +110,25 @@
     
     <item>
       <title>A Unifying Framework for Probabilistic Validation Metrics</title>
+      <link>https://pagard.github.io/papers/gardner-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/gardner-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unifying Framework for Probabilistic Validation Metrics</title>
       <link>https://pagard.github.io/publication/gardner-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://pagard.github.io/publication/gardner-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Gaussian Process Emulators for Surrogate Design Modelling</title>
+      <link>https://pagard.github.io/papers/gardner-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/papers/gardner-2018/</guid>
       <description></description>
     </item>
     
