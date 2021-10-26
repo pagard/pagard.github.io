@@ -5,7 +5,7 @@
     <link>https://pagard.github.io/</link>
       <atom:link href="https://pagard.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Gardner</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language>
     <image>
       <url>https://pagard.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Paul Gardner</title>
@@ -13,467 +13,142 @@
     </image>
     
     <item>
-      <title>Autonomous ultrasonic inspection using Bayesian optimisation and robust outlier analysis</title>
-      <link>https://pagard.github.io/papers/fuentes-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/fuentes-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autonomous ultrasonic inspection using Bayesian optimisation and robust outlier analysis</title>
-      <link>https://pagard.github.io/publication/fuentes-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/fuentes-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian history matching for structural dynamics applications</title>
-      <link>https://pagard.github.io/papers/gardner-2020-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/gardner-2020-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian history matching for structural dynamics applications</title>
-      <link>https://pagard.github.io/publication/gardner-2020-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/gardner-2020-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital twins: state-of-the-art future directions for modelling and simulation in engineering dynamics applications</title>
-      <link>https://pagard.github.io/papers/wagg-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/wagg-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital twins: state-of-the-art future directions for modelling and simulation in engineering dynamics applications</title>
-      <link>https://pagard.github.io/publication/wagg-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/wagg-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kernelised Bayesian transfer learning for population-based structural health monitoring</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2020-c/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2020-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kernelised Bayesian transfer learning for population-based structural health monitoring</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2020-c/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2020-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On digital twins, mirrors and virtualisations: frameworks for model verification and validation</title>
-      <link>https://pagard.github.io/papers/worden-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/worden-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On digital twins, mirrors and virtualisations: frameworks for model verification and validation</title>
-      <link>https://pagard.github.io/publication/worden-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/worden-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On partitioning of an SHM problem and parallels with transfer learning</title>
-      <link>https://pagard.github.io/papers/cp-tsialiamanis-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-tsialiamanis-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On partitioning of an SHM problem and parallels with transfer learning</title>
-      <link>https://pagard.github.io/publication/cp-tsialiamanis-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-tsialiamanis-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the application of domain adaptation in structural health monitoring</title>
-      <link>https://pagard.github.io/papers/gardner-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/gardner-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the application of domain adaptation in structural health monitoring</title>
-      <link>https://pagard.github.io/publication/gardner-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/gardner-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic modelling of wind turbine power curves with application of heteroscedastic Gaussian Process regression</title>
-      <link>https://pagard.github.io/papers/rogers-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/rogers-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic modelling of wind turbine power curves with application of heteroscedastic Gaussian Process regression</title>
-      <link>https://pagard.github.io/publication/rogers-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/rogers-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards population-based structural health monitoring, Part I: Homogeneous populations and forms</title>
-      <link>https://pagard.github.io/papers/cp-bull-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-bull-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards population-based structural health monitoring, Part I: Homogeneous populations and forms</title>
-      <link>https://pagard.github.io/publication/cp-bull-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-bull-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards population-based structural health monitoring, Part II: Heterogeneous populations and structures as graphs</title>
-      <link>https://pagard.github.io/papers/cp-gosliga-2020-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gosliga-2020-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards population-based structural health monitoring, Part II: Heterogeneous populations and structures as graphs</title>
-      <link>https://pagard.github.io/publication/cp-gosliga-2020-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gosliga-2020-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards population-based structural health monitoring, Part III: Graphs, networks and communities</title>
-      <link>https://pagard.github.io/papers/cp-gosliga-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gosliga-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards population-based structural health monitoring, Part III: Graphs, networks and communities</title>
-      <link>https://pagard.github.io/publication/cp-gosliga-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gosliga-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards population-based structural health monitoring, Part IV: Heterogeneous populations, transfer and mapping</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards population-based structural health monitoring, Part IV: Heterogeneous populations, transfer and mapping</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2020-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2020-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards the development of a digital twin for structural dynamics applications</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2020-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2020-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards the development of a digital twin for structural dynamics applications</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2020-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2020-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Unifying Framework for Probabilistic Validation Metrics</title>
-      <link>https://pagard.github.io/papers/gardner-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/gardner-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Unifying Framework for Probabilistic Validation Metrics</title>
-      <link>https://pagard.github.io/publication/gardner-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/gardner-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning of model discrepancy for dynamics applications using Bayesian history matching</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2019-a/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning of model discrepancy for dynamics applications using Bayesian history matching</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2019-a/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2019-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On current trends in forward model-driven SHM</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2019-d/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2019-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On current trends in forward model-driven SHM</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2019-d/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2019-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On digital twins, mirrors and visualisations</title>
-      <link>https://pagard.github.io/papers/cp-worden-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-worden-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On digital twins, mirrors and visualisations</title>
-      <link>https://pagard.github.io/publication/cp-worden-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-worden-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On key technologies for realising digital twins for structural dynamics applications</title>
-      <link>https://pagard.github.io/papers/cp-wagg-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-wagg-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On key technologies for realising digital twins for structural dynamics applications</title>
-      <link>https://pagard.github.io/publication/cp-wagg-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-wagg-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On novel approaches to model-based structural health monitoring</title>
-      <link>https://pagard.github.io/papers/gardner-thesis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/gardner-thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On novel approaches to model-based structural health monitoring</title>
-      <link>https://pagard.github.io/publication/gardner-thesis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/gardner-thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the application of domain adaptation for aiding supervised SHM methods</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2019-c/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2019-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the application of domain adaptation for aiding supervised SHM methods</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2019-c/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2019-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequential Bayesian history matching for model calibration</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2019-b/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2019-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequential Bayesian history matching for model calibration</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2019-b/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2019-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse Gaussian Process Emulators for Surrogate Design Modelling</title>
-      <link>https://pagard.github.io/papers/gardner-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/gardner-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse Gaussian Process Emulators for Surrogate Design Modelling</title>
-      <link>https://pagard.github.io/publication/gardner-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/gardner-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A multi-level uncertainty integration strategy for forward model-driven SHM</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2018-d/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2018-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A multi-level uncertainty integration strategy for forward model-driven SHM</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2018-d/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2018-d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A probabilistic framework for forward model-driven SHM</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2018-c/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2018-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A probabilistic framework for forward model-driven SHM</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2018-c/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2018-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An evaluation of validation metrics for probabilistic model outputs</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2018-b/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2018-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An evaluation of validation metrics for probabilistic model outputs</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2018-b/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2018-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian history matching for forward model-driven structural health monitoring</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2018-a/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2018-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian history matching for forward model-driven structural health monitoring</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2018-a/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2018-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian calibration and bias correction for forward model-driven SHM</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian calibration and bias correction for forward model-driven SHM</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantification of uncertainty for experimentally obtained modal parameters in the creation of a robust damage model</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2016-a/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2016-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantification of uncertainty for experimentally obtained modal parameters in the creation of a robust damage model</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2016-a/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2016-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The development of a damage model for the use in machine learning driven SHM and comparison with conventional SHM methods</title>
-      <link>https://pagard.github.io/papers/cp-gardner-2016-b/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/papers/cp-gardner-2016-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The development of a damage model for the use in machine learning driven SHM and comparison with conventional SHM methods</title>
-      <link>https://pagard.github.io/publication/cp-gardner-2016-b/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://pagard.github.io/publication/cp-gardner-2016-b/</guid>
-      <description></description>
+      <title></title>
+      <link>https://pagard.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pagard.github.io/publications/</guid>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;font size=&#34;3.5&#34;&gt; Journal Articles&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2021-c/gardner-2021-c.pdf&#34;&gt;Overcoming the problem of repair in structural health monitoring: Metric-informed transfer learning&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, L.A. Bull, N. Dervilis, and K. Worden &lt;br&gt;
+&lt;em&gt;Journal of Sound and Vibration&lt;/em&gt;, vol. 510, pp.116245, October 2021 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.jsv.2021.116245&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.jsv.2021.116245&lt;/a&gt;   
+&lt;a href=&#34;https://github.com/pagard/EngineeringTransferLearning/blob/main/demos/mjda_demo_gnat.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[&lt;strong&gt;Code&lt;/strong&gt;]&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;bull-2021-c/bull-2021-c.pdf&#34;&gt;On the transfer of damage detectors between structures: An experimental case study&lt;/a&gt;  &lt;br&gt;
+L.A. Bull, &lt;strong&gt;P. Gardner&lt;/strong&gt;, N. Dervilis, E. Paptheou, M. Haywood-Alexander, R.S. Mills and K. Worden &lt;br&gt;
+&lt;em&gt;Journal of Sound and Vibration&lt;/em&gt;, vol. 501, pp.116072, June 2021 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.jsv.2021.116072&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.jsv.2021.116072&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;fuentes-2021/fuentes-2021.pdf&#34;&gt;Equation discovery for nonlinear dynamical systems: A Bayesian viewpoint&lt;/a&gt;  &lt;br&gt;
+R. Fuentes, R. Nayek, &lt;strong&gt;P. Gardner&lt;/strong&gt;, N. Dervilis, T.J. Rogers, K. Worden and E.J. Cross &lt;br&gt;
+&lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;, vol. 154, pp.107528, June 2021 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.ymssp.2020.107528&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.ymssp.2020.107528&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2021-b/gardner-2021-b.pdf&#34;&gt;Learning model discrepancy: A Gaussian process and sampling-based approach&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, T.J. Rogers, C. Lord and R.J. Barthorpe &lt;br&gt;
+&lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;, vol. 152, pp.107381, May 2021 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.ymssp.2020.107381&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.ymssp.2020.107381&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;bull-2021-b/bull-2021-b.pdf&#34;&gt;Probabilistic inference for structural health monitoring: new modes of learning from data&lt;/a&gt;  &lt;br&gt;
+L.A. Bull, &lt;strong&gt;P. Gardner&lt;/strong&gt;, T.J. Rogers, E.J. Cross, N. Dervilis and K. Worden &lt;br&gt;
+&lt;em&gt;ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering&lt;/em&gt;, vol. 7, pp.03120003, March 2021 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1061/AJRUA6.0001106&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1061/AJRUA6.0001106&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;bull-2021-a/bull-2021-a.pdf&#34;&gt;Foundations of population-based SHM, Part I: Homogeneous populations and forms&lt;/a&gt;  &lt;br&gt;
+L.A. Bull, &lt;strong&gt;P. Gardner&lt;/strong&gt;, J. Gosliga, T.J. Rogers, N. Dervilis, E.J. Cross, E. Papatheou, A.E. Magiure, C. Campos, and K. Worden &lt;br&gt;
+&lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;, vol. 148, pp.107141, Feb 2021 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.ymssp.2020.107141&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.ymssp.2020.107141&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gosliga-2021/gosliga-2021.pdf&#34;&gt;Foundations of population-based SHM, Part II: Heterogenous populations - Graphs, networks, and communities&lt;/a&gt;  &lt;br&gt;
+J. Gosliga, &lt;strong&gt;P. Gardner&lt;/strong&gt;, L.A. Bull, N. Dervilis, and K. Worden &lt;br&gt;
+&lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;, vol. 148, pp.107144, Feb 2021 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.ymssp.2020.107144&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.ymssp.2020.107144&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2021-a/gardner-2021-a.pdf&#34;&gt;Foundations of population-based SHM, Part III: Heterogenous populations - Mapping and transfer&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, L.A. Bull, J. Gosliga, N. Dervilis, and K. Worden &lt;br&gt;
+&lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;, vol. 149, pp.107142, Feb 2021 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.ymssp.2020.107142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.ymssp.2020.107142&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;fuentes-2020/fuentes-2020.pdf&#34;&gt;Autonomous ultrasonic inspection using Bayesian optimisation and robust outlier analysis&lt;/a&gt;  &lt;br&gt;
+R. Fuentes, &lt;strong&gt;P. Gardner&lt;/strong&gt;, C. Mineo, T.J. Rogers, S.G. Pierce, K. Worden, N. Dervilis and E.J. Cross &lt;br&gt;
+&lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;, vol. 145, pp.106897, November-December 2020 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.ymssp.2020.106897&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.ymssp.2020.106897&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2020-b/gardner-2020-b.pdf&#34;&gt;Bayesian history matching for structural dynamics appliciations&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, C. Lord and R.J. Barthorpe &lt;br&gt;
+&lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;, vol. 143, pp.106828, September 2020 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.ymssp.2020.106828&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.ymssp.2020.106828&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2020-d/gardner-2020-d.pdf&#34;&gt;Machine learning at the interface of structural health monitoring and non-destructive evaluation&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, R. Fuentes, N. Dervilis, C. Mineo, S.G. Pierce, E.J. Cross and K. Worden &lt;br&gt;
+&lt;em&gt;Philosophical transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences&lt;/em&gt;, vol. 378, pp.20190581, September 2020 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1098/rsta.2019.0581&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1098/rsta.2019.0581&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2020-c/gardner-2020-c.pdf&#34;&gt;Towards the development of an operational Digital Twin&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, M. Dal Borgo, V. Ruffini, A.J. Hughes, Y. Zhu and D.J. Wagg &lt;br&gt;
+&lt;em&gt;Vibration&lt;/em&gt;, vol. 3, pp.235-265, September 2020 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.3390/vibration3030018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3390/vibration3030018&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;worden-2020-b/worden-2020-b.pdf&#34;&gt;A brief introduction to recent developments in population-based structural health monitoring&lt;/a&gt;  &lt;br&gt;
+K. Worden, L.A. Bull, &lt;strong&gt;P. Gardner&lt;/strong&gt;, J. Gosliga, T.J. Rogers, E.J. Cross, E. Paptheou, W. Lin and N. Dervilis &lt;br&gt;
+&lt;em&gt;Frontiers in Built Environment&lt;/em&gt;, vol. 6, pp.146, September 2020 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.3389/fbuil.2020.00146&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.3389/fbuil.2020.00146&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;wagg-2020/wagg-2020.pdf&#34;&gt;Digital twins: State-of-the-art and future directions for modeling and simulation in engineering dynamics applications&lt;/a&gt;  &lt;br&gt;
+D.J. Wagg, K. Worden, R.J. Barthorpe and &lt;strong&gt;P. Gardner&lt;/strong&gt; &lt;br&gt;
+&lt;em&gt;ASCE-ASME Jounral of Risk and Uncertainty in Engineering Systems, Part B: Mechancial Engineering&lt;/em&gt;, vol. 6, pp.030901, May 2020 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1115/1.4046739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1115/1.4046739&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;worden-2020-a/worden-2020-a.pdf&#34;&gt;On Digital Twins, mirrors, and virtualizations: Frameworks for model verification and validation&lt;/a&gt;  &lt;br&gt;
+K. Worden, E.J. Cross, R.J. Barthorpe, D.J. Wagg and &lt;strong&gt;P. Gardner&lt;/strong&gt; &lt;br&gt;
+&lt;em&gt;ASCE-ASME Jounral of Risk and Uncertainty in Engineering Systems, Part B: Mechancial Engineering&lt;/em&gt;, vol. 6, pp.030902, May 2020 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1115/1.4046740&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1115/1.4046740&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2020-a/gardner-2020-a.pdf&#34;&gt;On the application of domain adaptation in structural health monitoring&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, X. Liu, and K. Worden &lt;br&gt;
+&lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;, vol. 138, pp.106550, April 2020 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.ymssp.2019.106550&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.ymssp.2019.106550&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;rogers-2020/rogers-2020.pdf&#34;&gt;Probabilistic modelling of wind turbine power curves with application of heteroscedastic Gaussian process regression&lt;/a&gt;  &lt;br&gt;
+T.J. Rogers, &lt;strong&gt;P. Gardner&lt;/strong&gt;, N. Dervilis, K. Worden, A.E. Maguire E. Papatheou and E.J. Cross &lt;br&gt;
+&lt;em&gt;Renewable Energy&lt;/em&gt;, vol. 148, pp.1124-1136, April 2020 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.renene.2019.09.145&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.renene.2019.09.145&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2019&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2019/gardner-2019.pdf&#34;&gt;A unifying framework for probabilistic validation metrics&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, C. Lord and R.J. Barthorpe &lt;br&gt;
+&lt;em&gt;Journal of Verification, Validation and Uncertainty Quantification&lt;/em&gt;, vol. 4, pp.031005, November 2019 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1115/1.4045296&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1115/1.4045296&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2018/gardner-2018.pdf&#34;&gt;Sparse Gaussian process emulators for surrogate design modelling&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, T.J. Rogers, C. Lord and R.J. Barthorpe &lt;br&gt;
+&lt;em&gt;Applied Mechanics and Materials&lt;/em&gt;, vol. 885, pp.18-31, November 2018 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.4028/www.scientific.net/AMM.885.18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.4028/www.scientific.net/AMM.885.18&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;font size=&#34;3.5&#34;&gt; Book Chapters&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt; Structural health monitoring and damage identificaiton &lt;br&gt;
+R. Fuentes, E.J. Cross, &lt;strong&gt;P. Gardner&lt;/strong&gt;, L.A. Bull, T.J. Rogers, R.J. Barthorpe, H. Shi, N. Dervilis, C.R. Farrar and K. Worden &lt;br&gt;
+in the &lt;em&gt;Handbook of Experimental Structural Dynamics&lt;/em&gt;, 2020, Springer New York &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1007/978-1-4939-6503-8_23-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/978-1-4939-6503-8_23-1&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
