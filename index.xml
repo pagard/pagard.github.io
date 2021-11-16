@@ -21,6 +21,14 @@
 &lt;/br&gt;
 &lt;p&gt;&lt;font size=&#34;3.5&#34;&gt; Journal Articles&lt;/font&gt;&lt;/p&gt;
 &lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
+&lt;a href=&#34;gardner-2022-a/gardner-2022-a.pdf&#34;&gt;On the application of kernelised Bayesian transfer learning to population-based structural health monitoring&lt;/a&gt;  &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, L.A. Bull, N. Dervilis, and K. Worden &lt;br&gt;
+&lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;, vol. 167b, pp.108519, March 2022 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1016/j.ymssp.2021.108519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.ymssp.2021.108519&lt;/a&gt;   
+&lt;a href=&#34;https://github.com/pagard/EngineeringTransferLearning/blob/main/demos/kbtl_demo.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[&lt;strong&gt;Code&lt;/strong&gt;]&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size=&#34;2.5&#34;&gt;
 &lt;a href=&#34;gardner-2021-c/gardner-2021-c.pdf&#34;&gt;Overcoming the problem of repair in structural health monitoring: Metric-informed transfer learning&lt;/a&gt;  &lt;br&gt;
@@ -143,6 +151,18 @@ T.J. Rogers, &lt;strong&gt;P. Gardner&lt;/strong&gt;, N. Dervilis, K. Worden, A.
 &lt;/br&gt;
 &lt;p&gt;&lt;font size=&#34;3.5&#34;&gt; Book Chapters&lt;/font&gt;&lt;/p&gt;
 &lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt; Population-based structural health monitoring &lt;br&gt;
+&lt;strong&gt;P. Gardner&lt;/strong&gt;, L.A. Bull, J. Gosliga, N. Dervilis, E.J. Cross, E. Papatheou and K. Worden &lt;br&gt;
+in the &lt;em&gt;Structural health monitoring based on data science techniques&lt;/em&gt;, 2021, Springer, pp.413-435 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1007/978-3-030-81716-9_20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/978-3-030-81716-9_20&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;2.5&#34;&gt; Partially supervised learning for data-driven structural health monitoring &lt;br&gt;
+L.A. Bull, A.J. Hughes, T.J. Rogers, &lt;strong&gt;P. Gardner&lt;/strong&gt;, K. Worden and N. Dervilis &lt;br&gt;
+in the &lt;em&gt;Structural health monitoring based on data science techniques&lt;/em&gt;, 2021, Springer, pp.389-411 &lt;br&gt;
+&lt;strong&gt;DOI:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.1007/978-3-030-81716-9_19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1007/978-3-030-81716-9_19&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size=&#34;2.5&#34;&gt; Structural health monitoring and damage identificaiton &lt;br&gt;
 R. Fuentes, E.J. Cross, &lt;strong&gt;P. Gardner&lt;/strong&gt;, L.A. Bull, T.J. Rogers, R.J. Barthorpe, H. Shi, N. Dervilis, C.R. Farrar and K. Worden &lt;br&gt;
 in the &lt;em&gt;Handbook of Experimental Structural Dynamics&lt;/em&gt;, 2020, Springer New York &lt;br&gt;
